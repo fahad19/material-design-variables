@@ -1,0 +1,7 @@
+{
+  "name": "material-design-variables",
+  "version": "0.1.0",
+  "main": "variables.less",
+  "dependencies": {
+  }
+}
